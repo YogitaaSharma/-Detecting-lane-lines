@@ -1,5 +1,5 @@
 
-# Finding lanes lines on the road
+# Detecting lanes lines on the road
 
 ## Overview
 
